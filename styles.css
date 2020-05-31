@@ -1,0 +1,37 @@
+navbar{
+border-radius: 0;
+border: 2px solid black;
+}
+
+
+.navbar-brand{
+font-size: 20px;
+font-weight: bold;
+}
+
+.nav-link{
+color: black;
+}
+
+.d-none {
+  display: none;
+}
+
+.ourmenu{
+padding-top: 20px;
+}
+
+.row{
+padding-top: 20px;
+}
+
+.fooditem{
+margin-left: 2px;
+margin-right: 2px;
+background-color: grey;
+}
+
+.fooditem > p{
+padding-left: 5px;
+padding-right: 2px;
+}
